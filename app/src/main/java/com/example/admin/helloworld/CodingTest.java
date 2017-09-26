@@ -14,7 +14,7 @@ public class CodingTest {
         //otherwise print itself
 
         String [] animals = {"cat", "hen","cat", "cow", "dog", "pig", "cow", "dog", "rat"};
-
+        System.out.println("test");
         fizzbuzz(30);
         findDulicates(animals);
     }
